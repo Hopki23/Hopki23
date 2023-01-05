@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **C# Database**
 
+- 📫 How to reach me **ersenov23@gmail.com  / edis.ersenov23@abv.bg**
+
 - ⚡ Fun fact **I love football and competitive gaming**
 
 <h3 align="left">Connect with me:</h3>

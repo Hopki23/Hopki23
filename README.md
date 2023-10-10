@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edis</h1>
 <h3 align="center">Currently studying at Software University</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **ersenov23@gmail.com**
 
